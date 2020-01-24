@@ -18,3 +18,17 @@
 |      Easy     | [206) Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                  |            |
 |      Easy     | [121) Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                  |            |
 |      Easy     | [953) Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                  |            |
+|      Easy     | [7) Reverse Integer](https://leetcode.com/problems/reverse-integer/)                  |            |
+|      Easy     | [88) Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                  |            |
+|      Easy     | [572) Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                  |            |
+|      Easy     | [412) Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                  |            |
+|      Easy     | [125) Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  |            |
+|      Easy     | [811) Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)                  |            |
+|      Easy     | [994) Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                  |            |
+|      Easy     | [819) Most Common Word](https://leetcode.com/problems/most-common-word/)                  |            |
+|      Easy     | [13) Roman Integer](https://leetcode.com/problems/roman-to-integer/)                  |            |
+|      Easy     | [415) Add Strings](https://leetcode.com/problems/add-strings/)                  |            |
+|      Easy     | [155) Min Stack](https://leetcode.com/problems/min-stack/)                  |            |
+|      Easy     | [706) Design HashMap](https://leetcode.com/problems/design-hashmap/)                  |            |
+|      Easy     | [9) Palindrome Number](https://leetcode.com/problems/palindrome-number/)                  |            |
+|      Easy     | [543) Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                  |            |
