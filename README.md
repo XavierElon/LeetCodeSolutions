@@ -1,7 +1,7 @@
 # LeetCode_Solutions
 <p align="center">
     <a href="https://www.hackerrank.com/XavierElon1">
-        <img height=85 src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png">
+        <img height=150 src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png">
     </a>
     <br>Efficient solutions to LeetCode problems
 </p>
