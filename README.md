@@ -7,8 +7,8 @@
 </p>
 
 
-   Difficulty   |                                                 Challenge                                            |                                                                                                 Solution                                                                                                 |
-|:---------------------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|      Easy     | [1) Two Sum](https://leetcode.com/problems/two-sum/)                                                 | [Solution.java]()           |
+   Difficulty   |                                                 Challenge                                            |                                                            Solution                                          
+|:---------------------:|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
+|      Easy     | [1) Two Sum](https://leetcode.com/problems/two-sum/)                                                 | [Solution.java](https://github.com/XavierElon1/LeetCode_Solutions/blob/master/Easy/1_Two_Sum)                |
 |      Easy     | [20) Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                            | [Solution.java]()           |
-|      Easy     | [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase)        | [Solution.java]()           |
+|      Easy     | [21) Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                  | [Solution.java]()           |
