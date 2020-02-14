@@ -7,7 +7,7 @@
 </p>
 
 
-   Difficulty   |                                                 Solution                                           |                                                            Youtube Explanation                                      
+   Difficulty   |                                                 Solution/LeetcodeLink                                |                                                            Youtube Explanation                                      
 |:---------------------:|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
 |      Easy     | [1) Two Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/1_Two_Sum)                                                 | [Youtube explanation](https://www.youtube.com/watch?v=LaVPCy_DWR8&t=3s)               |
 |      Easy     | [20) Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                            |            |
@@ -18,7 +18,7 @@
 |      Easy     | [206) Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                  |            |
 |      Easy     | [121) Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                  |            |
 |      Easy     | [953) Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                  |            |
-|      Easy     | [7) Reverse Integer](https://leetcode.com/problems/reverse-integer/)                  |            |
+|      Easy     | [7) Reverse Integer](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/7_reverse_integer) / [Leetcode](https://leetcode.com/problems/reverse-integer/)                 |            |
 |      Easy     | [88) Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                  |            |
 |      Easy     | [572) Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                  |            |
 |      Easy     | [412) Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                  |            |
