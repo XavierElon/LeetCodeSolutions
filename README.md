@@ -12,7 +12,7 @@
 |      Easy     | [1) Two Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/1_Two_Sum) / [Leetcode](https://leetcode.com/problems/two-sum/) | [Youtube explanation](https://www.youtube.com/watch?v=LaVPCy_DWR8&t=3s)               |
 |      Easy     | [20) Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) / [Leetcode](https://leetcode.com/problems/valid-parentheses/) |[Youtube explanation](https://youtu.be/Voi-GeAw2lg)            |
 |      Easy     | [21) Merge Two Sorted Lists](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/21_merge_two_sorted_lists) / [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |            |
-|      Easy     | [53) Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                  |            |
+|      Easy     | [53) Maximum Subarray](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/53_maximum_subarray) / [Leetcode](https://leetcode.com/problems/maximum-subarray/) |            |
 |      Easy     | [202) Happy Number](https://leetcode.com/problems/happy-number/)                  |            |
 |      Easy     | [937) Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)                  |            |
 |      Easy     | [206) Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                  |            |
