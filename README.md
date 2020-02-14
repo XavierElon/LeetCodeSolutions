@@ -9,7 +9,7 @@
 
    Difficulty   |                                                 Solution                                           |                                                            Youtube Explanation                                          
 |:---------------------:|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|      Easy     | [1) Two Sum](https://leetcode.com/problems/two-sum/)                                                 | [Youtube.explanation](https://www.youtube.com/watch?v=LaVPCy_DWR8&t=3s)               |
+|      Easy     | [1) Two Sum](https://leetcode.com/problems/two-sum/)                                                 | [Youtube explanation](https://www.youtube.com/watch?v=LaVPCy_DWR8&t=3s)               |
 |      Easy     | [20) Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                            |            |
 |      Easy     | [21) Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                  |            |
 |      Easy     | [53) Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                  |            |
