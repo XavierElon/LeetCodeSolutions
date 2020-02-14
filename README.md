@@ -7,7 +7,7 @@
 </p>
 
 
-   Difficulty   |                                                 Solution/LeetcodeLink                                |                                                            Youtube Explanation                                      
+   Difficulty   |                                           Github Solution/LeetcodeLink                                |                                                            Youtube Explanation                                      
 |:---------------------:|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
 |      Easy     | [1) Two Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/1_Two_Sum)                                                 | [Youtube explanation](https://www.youtube.com/watch?v=LaVPCy_DWR8&t=3s)               |
 |      Easy     | [20) Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                            |            |
