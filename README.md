@@ -13,7 +13,7 @@
 |      Easy     | [20) Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) / [Leetcode](https://leetcode.com/problems/valid-parentheses/) |[Youtube explanation](https://youtu.be/Voi-GeAw2lg)            |
 |      Easy     | [21) Merge Two Sorted Lists](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/21_merge_two_sorted_lists) / [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |            |
 |      Easy     | [53) Maximum Subarray](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/53_maximum_subarray) / [Leetcode](https://leetcode.com/problems/maximum-subarray/) |            |
-|      Easy     | [202) Happy Number](https://leetcode.com/problems/happy-number/)                  |            |
+|      Easy     | [202) Happy Number](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/202_happy_number) / [Leetcode](https://leetcode.com/problems/happy-number/)                  |            |
 |      Easy     | [937) Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)                  |            |
 |      Easy     | [206) Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                  |            |
 |      Easy     | [121) Best Time to Buy and Sell Stock](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/121_best_time_to_buy_and_sell_stock) / [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |            |
