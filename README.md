@@ -7,7 +7,7 @@
 </p>
 
 
-   Difficulty   |                                                 Challenge                               Solution                                  Youtube
+ |                                                 Challenge                               Solution                                  Youtube
 |:---------------------:|:-------------------------------------------------------:|:---------------------------------------------------:|------------------
 |      Easy     | [1) Two Sum](https://leetcode.com/problems/two-sum/)            | [Solution.java](https://github.com/XavierElon1/LeetCode_Solutions/blob/master/Easy/1_Two_Sum)   |
 |      Easy     | [20) Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                            |            |
