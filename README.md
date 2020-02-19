@@ -24,7 +24,7 @@
 |      Easy     | 412) Fizz Buzz / [Leetcode](https://leetcode.com/problems/fizz-buzz/)                  |            |
 |      Easy     | 125) Valid Palindrome / [Leetcode](https://leetcode.com/problems/valid-palindrome/)                  |            |
 |      Easy     | 811) Subdomain Visit Count / [Leetcode](https://leetcode.com/problems/subdomain-visit-count/)                  |            |
-|      Easy     | 994) [Rotting Oranges]() / [Leetcode](https://leetcode.com/problems/rotting-oranges/)                  | [Youtube explanation](https://youtu.be/0Ji-xhxeqGg)            |
+|      Easy     | [994) Rotting Oranges]() / [Leetcode](https://leetcode.com/problems/rotting-oranges/)                  | [Youtube explanation](https://youtu.be/0Ji-xhxeqGg)            |
 |      Easy     | 819) Most Common Word / [Leetcode](https://leetcode.com/problems/most-common-word/)                  |            |
 |      Easy     | 13) Roman Integer / [Leetcode](https://leetcode.com/problems/roman-to-integer/)                  |            |
 |      Easy     | 415) Add Strings / [Leetcode](https://leetcode.com/problems/add-strings/)                  |            |
