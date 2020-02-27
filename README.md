@@ -25,7 +25,7 @@
 |                   | 412) Fizz Buzz / [Leetcode](https://leetcode.com/problems/fizz-buzz/)                  |            |
 |                   | 125) Valid Palindrome / [Leetcode](https://leetcode.com/problems/valid-palindrome/)                  |            |
 |                   | 811) Subdomain Visit Count / [Leetcode](https://leetcode.com/problems/subdomain-visit-count/)                  |            |
-|        BFS        | [994) Rotting Oranges]() / [Leetcode](https://leetcode.com/problems/rotting-oranges/)                  | [Youtube](https://youtu.be/0Ji-xhxeqGg)            |
+|        BFS        | [994) Rotting Oranges](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/994_rotting_oranges.java) / [Leetcode](https://leetcode.com/problems/rotting-oranges/)                  | [Youtube](https://youtu.be/0Ji-xhxeqGg)            |
 |                   | 819) Most Common Word / [Leetcode](https://leetcode.com/problems/most-common-word/)                  |            |
 |                   | 13) Roman Integer / [Leetcode](https://leetcode.com/problems/roman-to-integer/)                  |            |
 |                   | 415) Add Strings / [Leetcode](https://leetcode.com/problems/add-strings/)                  |            |
