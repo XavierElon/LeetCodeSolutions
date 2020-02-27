@@ -10,13 +10,13 @@
                                                 
 |       DS/A        |                                            Github Solution/LeetcodeLink                      |                                                   Youtube Explanation                                        | 
 |------------------:|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|                   | [1) Two Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/1_Two_Sum) / [Leetcode](https://leetcode.com/problems/two-sum/) | [Youtube explanation](https://www.youtube.com/watch?v=LaVPCy_DWR8&t=3s)               |
-|                   | [20) Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) / [Leetcode](https://leetcode.com/problems/valid-parentheses/) |[Youtube explanation](https://youtu.be/Voi-GeAw2lg)            |
-|                   | [21) Merge Two Sorted Lists](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/21_merge_two_sorted_lists) / [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |            |
-|                   | [53) Maximum Subarray](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/53_maximum_subarray) / [Leetcode](https://leetcode.com/problems/maximum-subarray/) |            |
-|                   | [202) Happy Number](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/202_happy_number) / [Leetcode](https://leetcode.com/problems/happy-number/)                  |            |
+|                   | [1) Two Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/1_Two_Sum) / [Leetcode](https://leetcode.com/problems/two-sum/) | [Youtube](https://youtu.be/G329edpgJJU)               |
+|                   | [20) Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) / [Leetcode](https://leetcode.com/problems/valid-parentheses/) |[Youtube](https://youtu.be/Voi-GeAw2lg)            |
+|                   | [21) Merge Two Sorted Lists](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/21_merge_two_sorted_lists) / [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) | [Youtube](https://youtu.be/WLARAEO5LQU)           |
+|                   | [53) Maximum Subarray](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/53_maximum_subarray) / [Leetcode](https://leetcode.com/problems/maximum-subarray/) | [Youtube](https://youtu.be/2DIDViJtxCE)           |
+|                   | [202) Happy Number](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/202_happy_number) / [Leetcode](https://leetcode.com/problems/happy-number/)                  | [Youtube](https://youtu.be/WLARAEO5LQU)            |
 |                   | 937) Reorder Data in Log Files / [Leetcode](https://leetcode.com/problems/reorder-data-in-log-files/)                  |            |
-|                   | [206) Reverse Linked List](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/206_reverse_linked_list) / [Leetcode](https://leetcode.com/problems/reverse-linked-list/)|[Youtube explanation](https://youtu.be/eUyAmgFbOJo)  | 
+|                   | [206) Reverse Linked List](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/206_reverse_linked_list) / [Leetcode](https://leetcode.com/problems/reverse-linked-list/)|[Youtube](https://youtu.be/eUyAmgFbOJo)  | 
 |                   | [121) Best Time to Buy and Sell Stock](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/121_best_time_to_buy_and_sell_stock) / [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |            |
 |                   | [953) Verifying an Alien Dictionary](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/953_verifying_an_alien_dictionary) / [Leetcode](https://leetcode.com/problems/verifying-an-alien-dictionary/)       | [Youtube explanation](https://youtu.be/XJOr79DxjY8) |
 |                   | [7) Reverse Integer](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/7_reverse_integer) / [Leetcode](https://leetcode.com/problems/reverse-integer/) |            |
@@ -40,7 +40,8 @@
                                                 
 |       DS/A        |                                            Github Solution/LeetcodeLink                      |                                                   Youtube Explanation                                        | 
 |------------------:|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|        Arrays     | [11) Container with Most Water]() / [Leetcode](https://leetcode.com/problems/container-with-most-water/) |            |
+|        Arrays     | [11) Container with Most Water](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/11_container_with_most_water.java) / [Leetcode](https://leetcode.com/problems/container-with-most-water/) |            |
+|        Arrays     | [15) 3Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/15_3sum.java) / [Leetcode](https://leetcode.com/problems/3sum/) | [Youtube](https://youtu.be/bsEhz-wt-3s)           |
 
 
 
@@ -54,4 +55,4 @@
 ### LeetCode Python
 |       DS/A         |                                            Github Solution/LeetcodeLink                            |                                                   Youtube Explanation                                        | 
 |-------------------:|:--------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|   Linked Lists     | [21) Merge Two Sorted Lists]() / [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) | [Youtube explanation](https://www.youtube.com/watch?v=LaVPCy_DWR8&t=3s)               |
+|   Linked Lists     | [21) Merge Two Sorted Lists](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Python/21_merge_two_sorted_lists.py) / [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) | [Youtube](https://www.youtube.com/watch?v=wQOpypLov6o)               |
