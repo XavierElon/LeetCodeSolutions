@@ -10,13 +10,13 @@
                                                 
 |       DS/A        |                                            Github Solution/LeetcodeLink                      |                                                   Youtube Explanation                                        | 
 |------------------:|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|                   | [1) Two Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/1_Two_Sum) / [Leetcode](https://leetcode.com/problems/two-sum/) | [Youtube](https://youtu.be/G329edpgJJU)               |
-|                   | [20) Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) / [Leetcode](https://leetcode.com/problems/valid-parentheses/) |[Youtube](https://youtu.be/Voi-GeAw2lg)            |
-|                   | [21) Merge Two Sorted Lists](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/21_merge_two_sorted_lists) / [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) | [Youtube](https://youtu.be/WLARAEO5LQU)           |
-|                   | [53) Maximum Subarray](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/53_maximum_subarray) / [Leetcode](https://leetcode.com/problems/maximum-subarray/) | [Youtube](https://youtu.be/2DIDViJtxCE)           |
+|      Arrays       | [1) Two Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/1_Two_Sum) / [Leetcode](https://leetcode.com/problems/two-sum/) | [Youtube](https://youtu.be/G329edpgJJU)               |
+|      Stack        | [20) Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) / [Leetcode](https://leetcode.com/problems/valid-parentheses/) |[Youtube](https://youtu.be/Voi-GeAw2lg)            |
+|    Linked Lists   | [21) Merge Two Sorted Lists](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/21_merge_two_sorted_lists) / [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) | [Youtube](https://youtu.be/WLARAEO5LQU)           |
+|      Arrays       | [53) Maximum Subarray](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/53_maximum_subarray) / [Leetcode](https://leetcode.com/problems/maximum-subarray/) | [Youtube](https://youtu.be/2DIDViJtxCE)           |
 |                   | [202) Happy Number](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/202_happy_number) / [Leetcode](https://leetcode.com/problems/happy-number/)                  | [Youtube](https://youtu.be/WLARAEO5LQU)            |
 |                   | 937) Reorder Data in Log Files / [Leetcode](https://leetcode.com/problems/reorder-data-in-log-files/)                  |            |
-|                   | [206) Reverse Linked List](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/206_reverse_linked_list) / [Leetcode](https://leetcode.com/problems/reverse-linked-list/)|[Youtube](https://youtu.be/eUyAmgFbOJo)  | 
+|   Linked Lists    | [206) Reverse Linked List](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/206_reverse_linked_list) / [Leetcode](https://leetcode.com/problems/reverse-linked-list/)|[Youtube](https://youtu.be/eUyAmgFbOJo)  | 
 |                   | [121) Best Time to Buy and Sell Stock](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/121_best_time_to_buy_and_sell_stock) / [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Youtube](https://youtu.be/QcVCqF63MIM)           |
 |                   | [953) Verifying an Alien Dictionary](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/953_verifying_an_alien_dictionary) / [Leetcode](https://leetcode.com/problems/verifying-an-alien-dictionary/)       | [Youtube](https://youtu.be/XJOr79DxjY8) |
 |                   | [7) Reverse Integer](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/7_reverse_integer) / [Leetcode](https://leetcode.com/problems/reverse-integer/) |            |
@@ -49,7 +49,7 @@
                                                 
 |       DS/A         |                                            Github Solution/LeetcodeLink                      |                                                   Youtube Explanation                                        | 
 |-------------------:|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|                   | [1) Two Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/1_Two_Sum) / [Leetcode](https://leetcode.com/problems/two-sum/) | [Youtube explanation](https://www.youtube.com/watch?v=LaVPCy_DWR8&t=3s)               |
+|                    |                                                                                               |                |
 
 
 ### LeetCode Python
