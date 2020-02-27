@@ -14,18 +14,18 @@
 |      Stack        | [20) Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) / [Leetcode](https://leetcode.com/problems/valid-parentheses/) |[Youtube](https://youtu.be/Voi-GeAw2lg)            |
 |    Linked Lists   | [21) Merge Two Sorted Lists](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/21_merge_two_sorted_lists) / [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) | [Youtube](https://youtu.be/WLARAEO5LQU)           |
 |      Arrays       | [53) Maximum Subarray](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/53_maximum_subarray) / [Leetcode](https://leetcode.com/problems/maximum-subarray/) | [Youtube](https://youtu.be/2DIDViJtxCE)           |
-|                   | [202) Happy Number](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/202_happy_number) / [Leetcode](https://leetcode.com/problems/happy-number/)                  | [Youtube](https://youtu.be/WLARAEO5LQU)            |
+|     Hash Table    | [202) Happy Number](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/202_happy_number) / [Leetcode](https://leetcode.com/problems/happy-number/)                  | [Youtube](https://youtu.be/WLARAEO5LQU)            |
 |                   | 937) Reorder Data in Log Files / [Leetcode](https://leetcode.com/problems/reorder-data-in-log-files/)                  |            |
 |   Linked Lists    | [206) Reverse Linked List](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/206_reverse_linked_list) / [Leetcode](https://leetcode.com/problems/reverse-linked-list/)|[Youtube](https://youtu.be/eUyAmgFbOJo)  | 
-|                   | [121) Best Time to Buy and Sell Stock](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/121_best_time_to_buy_and_sell_stock) / [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Youtube](https://youtu.be/QcVCqF63MIM)           |
-|                   | [953) Verifying an Alien Dictionary](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/953_verifying_an_alien_dictionary) / [Leetcode](https://leetcode.com/problems/verifying-an-alien-dictionary/)       | [Youtube](https://youtu.be/XJOr79DxjY8) |
-|                   | [7) Reverse Integer](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/7_reverse_integer) / [Leetcode](https://leetcode.com/problems/reverse-integer/) |            |
+|      Arrays       | [121) Best Time to Buy and Sell Stock](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/121_best_time_to_buy_and_sell_stock) / [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Youtube](https://youtu.be/QcVCqF63MIM)           |
+|      Hash Table   | [953) Verifying an Alien Dictionary](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/953_verifying_an_alien_dictionary) / [Leetcode](https://leetcode.com/problems/verifying-an-alien-dictionary/)       | [Youtube](https://youtu.be/XJOr79DxjY8) |
+|        Math       | [7) Reverse Integer](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Easy/7_reverse_integer) / [Leetcode](https://leetcode.com/problems/reverse-integer/) |            |
 |                   | 88) Merge Sorted Array / [Leetcode](https://leetcode.com/problems/merge-sorted-array/)                  |            |
 |                   | 572) Subtree of Another Tree / [Leetcode](https://leetcode.com/problems/subtree-of-another-tree/)                  |            |
 |                   | 412) Fizz Buzz / [Leetcode](https://leetcode.com/problems/fizz-buzz/)                  |            |
 |                   | 125) Valid Palindrome / [Leetcode](https://leetcode.com/problems/valid-palindrome/)                  |            |
 |                   | 811) Subdomain Visit Count / [Leetcode](https://leetcode.com/problems/subdomain-visit-count/)                  |            |
-|                   | [994) Rotting Oranges]() / [Leetcode](https://leetcode.com/problems/rotting-oranges/)                  | [Youtube](https://youtu.be/0Ji-xhxeqGg)            |
+|        BFS        | [994) Rotting Oranges]() / [Leetcode](https://leetcode.com/problems/rotting-oranges/)                  | [Youtube](https://youtu.be/0Ji-xhxeqGg)            |
 |                   | 819) Most Common Word / [Leetcode](https://leetcode.com/problems/most-common-word/)                  |            |
 |                   | 13) Roman Integer / [Leetcode](https://leetcode.com/problems/roman-to-integer/)                  |            |
 |                   | 415) Add Strings / [Leetcode](https://leetcode.com/problems/add-strings/)                  |            |
