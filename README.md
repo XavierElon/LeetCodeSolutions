@@ -44,6 +44,8 @@
 |        Arrays     | [15) 3Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/15_3sum.java) / [Leetcode](https://leetcode.com/problems/3sum/) | [Youtube](https://youtu.be/bsEhz-wt-3s)           |
 |        Arrays     | [56) Merge Intervals]() / [Leetcode](https://leetcode.com/problems/merge-intervals/solution/) |            |
 |   Greedy/Arrays   | [1007) Minimum Domino Rotations for Equal Row]() / [Leetcode](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) |            |
+|   Linked Lists    | [2) Add Two Numbers]() / [Leetcode](https://leetcode.com/problems/add-two-numbers/) |            |
+
 
 
 
