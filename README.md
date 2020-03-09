@@ -46,7 +46,7 @@
 |   Greedy/Arrays   | [1007) Minimum Domino Rotations for Equal Row](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/minimum_domino_rotations_for_equal_row.java) / [Leetcode](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Youtube](https://youtu.be/CSTI9XQJ9jU)           |
 |   Linked Lists    | [2) Add Two Numbers](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/add_two_numbers.java) / [Leetcode](https://leetcode.com/problems/add-two-numbers/) | [Youtube](https://youtu.be/NNJ2tbtSuqk)           |
 |   Linked Lists    | [19) Remove Nth Node from End of List](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/remove_nth_node_from_end_of_list.java) / [Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |            |
-|Hash/Sliding Window| [3) Longest Substring without Repeating Characters](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/longest_substring_without_repeating_characters.java) / [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |            |
+|Hash/Sliding Window| [3) Longest Substring without Repeating Characters](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/longest_substring_without_repeating_characters.java) / [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Youtube](https://youtu.be/7HhgjfXIv70)           |
 |    Backtracing    | [39) Combination Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/combination_sum.java) / [Leetcode](https://leetcode.com/problems/combination-sum/) |            |
 
 
