@@ -40,11 +40,12 @@
                                                 
 |       DS/A        |                                            Github Solution/LeetcodeLink                      |                                                   Youtube Explanation                                        | 
 |------------------:|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|        Arrays     | [11) Container with Most Water](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/11_container_with_most_water.java) / [Leetcode](https://leetcode.com/problems/container-with-most-water/) |            |
+|        Arrays     | [11) Container with Most Water](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/11_container_with_most_water.java) / [Leetcode](https://leetcode.com/problems/container-with-most-water/) | [Youtube](https://youtu.be/76w3jwRItvI)            |
 |        Arrays     | [15) 3Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/15_3sum.java) / [Leetcode](https://leetcode.com/problems/3sum/) | [Youtube](https://youtu.be/bsEhz-wt-3s)           |
 |        Arrays     | [56) Merge Intervals](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/merge_intervals.java) / [Leetcode](https://leetcode.com/problems/merge-intervals/solution/) |            |
 |   Greedy/Arrays   | [1007) Minimum Domino Rotations for Equal Row](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/minimum_domino_rotations_for_equal_row.java) / [Leetcode](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) |            |
 |   Linked Lists    | [2) Add Two Numbers](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/2_add_two_numbers.java) / [Leetcode](https://leetcode.com/problems/add-two-numbers/) |            |
+|   Linked Lists    | [19) Remove Nth Node from End of List](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/2_add_two_numbers.java) / [Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |            |
 
 
 
