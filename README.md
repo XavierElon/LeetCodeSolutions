@@ -47,6 +47,7 @@
 |   Linked Lists    | [2) Add Two Numbers](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/2_add_two_numbers.java) / [Leetcode](https://leetcode.com/problems/add-two-numbers/) | [Youtube](https://youtu.be/NNJ2tbtSuqk)           |
 |   Linked Lists    | [19) Remove Nth Node from End of List](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/2_add_two_numbers.java) / [Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |            |
 |Hash/Sliding Window| [3) Longest Substring without Repeating Characters](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/2_add_two_numbers.java) / [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |            |
+|    Backtracing    | [39) Combination Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/2_add_two_numbers.java) / [Leetcode](https://leetcode.com/problems/combination-sum/) |            |
 
 
 
