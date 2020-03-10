@@ -1,4 +1,4 @@
-# LeetCode_Solutions in Java
+# LeetCode Solutions
 <p align="center">
     <a href="https://www.hackerrank.com/XavierElon1">
         <img height=150 src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png">
