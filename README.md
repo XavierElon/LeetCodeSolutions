@@ -48,6 +48,14 @@
 |Hash/Sliding Window| [3) Longest Substring without Repeating Characters](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/longest_substring_without_repeating_characters.java) / [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Youtube](https://youtu.be/7HhgjfXIv70)           |
 |    Backtracing    | [39) Combination Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/combination_sum.java) / [Leetcode](https://leetcode.com/problems/combination-sum/) |            |
 | Arrays/Matrices   | [54) Spiral Matrix](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/spiral_matrix.java) / [Leetcode](https://leetcode.com/problems/spiral-matrix/) |              |
+| Arrays/Matrices   | [238) Product of Array Except Itself](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/product_of_array_except_itself.java) / [Leetcode](https://leetcode.com/problems/product-of-array-except-self/) |              |
+| Arrays/Matrices   | [221) Maximal Square](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/maximal_square.java) / [Leetcode](https://leetcode.com/problems/maximal-square/) |              |
+| Arrays/Matrices   | [64) Minimum Path Sum](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/minimum_path_sum.java) / [Leetcode](https://leetcode.com/problems/minimum-path-sum/) |              |
+| Bit Manipulation  | [201) Bitwise AND of Numbers Range](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/bitwise_and_of_numbers_range.java) / [Leetcode](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |              |
+| Linked Lists.     | [238) Linked List Cycle II](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/linked_list_cycle_ii.java) / [Leetcode](https://leetcode.com/problems/linked-list-cycle-ii/) |              |
+| Hash Maps   | [49) Group Anagrams](https://github.com/XavierElon1/LeetCodeSolutions/blob/master/Medium/group_anagrams.java) / [Leetcode](https://leetcode.com/problems/group-anagrams/) |              |
+
+
 
 
 
