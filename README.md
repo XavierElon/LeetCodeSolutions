@@ -5,7 +5,9 @@
     </a>
     <br>Efficient solutions to LeetCode problems
 </p>
-                                            
+             
+ I try to add as many LeetCode solutions as I can to this repository but I have not been able to add them all as it is quite tedious and time consuming.
+             
 ### LeetCode Easy ###
                                                 
 |       DS/A        |                                            Github Solution/LeetcodeLink                      |                                                   Youtube Explanation                                        | 
